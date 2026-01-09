@@ -1,16 +1,66 @@
-# React + Vite
+# Refokus Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A visually rich frontend project inspired by the **Refokus** website.  
+This project focuses on **recreating the overall structure, smooth scrolling, and high-quality animations** while learning modern frontend animation techniques.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Project Overview
 
-## React Compiler
+The **Refokus Clone** is a frontend-only web project built to practice and demonstrate:
+- Advanced UI animations
+- Smooth scrolling behavior
+- Clean layout structuring
+- Component-based React architecture
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The goal was **not pixel-perfect copying**, but to understand and recreate the **core design philosophy and interactions** of the original Refokus website.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+- Smooth scrolling using **Locomotive Scroll**
+- High-performance animations using **Framer Motion**
+- Animated marquees and hover interactions
+- Modern, responsive layout
+- Clean and reusable React components
+- Tailwind CSS for fast and consistent styling
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** – Component-based UI development
+- **Vite** – Fast development and build tool
+- **Tailwind CSS** – Utility-first styling
+- **Framer Motion** – Animations and transitions
+- **Locomotive Scroll** – Smooth scrolling experience
+- **JavaScript (ES6+)**
+
+---
+
+## 📸 Animations & Interactions
+
+- Scroll-based animations for sections
+- Hover-triggered motion effects
+- Continuous marquee animations
+- Smooth transitions between UI states
+
+These animations help improve **user engagement and visual flow** throughout the website.
+
+---
+
+## 🎯 Learning Outcomes
+
+- Understanding real-world website animation structure
+- Implementing smooth scrolling with animation libraries
+- Managing animation state across components
+- Improving UI/UX through motion design
+- Structuring scalable React projects
+
+---
+
+## ⚠️ Disclaimer
+
+This project is created **only for educational and learning purposes**.  
+All design inspiration belongs to **Refokus**. No commercial use intended.
